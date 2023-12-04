@@ -1,0 +1,81 @@
+[
+  {
+    "school": "Kothari International School",
+    "event": "Ingenious 2k22",
+    "outcome": ["Journo's Journey - 1st Prize"],
+    "id": 1
+  },
+  {
+    "school": "Cambridge School NOIDA",
+    "event": "Technolymics 2k22",
+    "outcome": ["Video Editing - 1st Prize"],
+    "id": 2
+  },
+  {
+    "school": "Ryan International School MV",
+    "event": "imAgine.py v3.1",
+    "outcome": ["Designathon - 2nd Prize"],
+    "id": 3
+  },
+  {
+    "school": "Mount St Mary's School",
+    "event": "Ingenious 2k22",
+    "outcome": ["InTune - 1st Prize", "A/V Sync - 2nd Prize"],
+    "id": 4
+  },
+  {
+    "school": "Apeejay School, Panchsheel park",
+    "event": "ForceFest",
+    "outcome": ["ToonTastic - 1st Prize"],
+
+    "id": 5
+  },
+  {
+    "school": "SRDAV School",
+    "event": "Wartex 2k22",
+    "outcome": ["Rework Render - 1st Prize"],
+    "id": 6
+  },
+  {
+    "school": "Somerville School Noida",
+    "event": "Incognito 2k22",
+    "outcome": ["CONTINUUM - 2nd Prize"],
+    "id": 7
+  },
+  {
+    "school": "Ahlcon Public Mayur Vihar",
+    "event": "Silico Battles",
+    "outcome": ["24 Frames - 3rd Prize"],
+    "id": 8
+  },
+  {
+    "school": "DPS Mathura Road",
+    "event": "WaRP",
+    "outcome": ["Designathon - 1st Prize"],
+    "id": 9
+  },
+  {
+    "school": "KR Mangalam",
+    "event": "Elithon",
+    "outcome": ["Cryptic Hunt - 3rd Prize"],
+    "id": 10
+  },
+  {
+    "school": "Venkateshwar International School",
+    "event": "Decagon 2k23",
+    "outcome": ["Video Editing - 1st Prize"],
+    "id": 11
+  },
+  {
+    "school": "Ahlcon Public Mayur Vihar",
+    "event": "Silico Battles 2k23",
+    "outcome": ["24 Frames - 3rd Prize"],
+    "id": 12
+  },
+  {
+    "school": "SRDAV School",
+    "event": "Wartex 2k23",
+    "outcome": ["Rework Render - 1st Prize"],
+    "id": 6
+  }
+]
