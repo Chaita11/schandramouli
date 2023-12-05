@@ -76,6 +76,12 @@
     "school": "SRDAV School",
     "event": "Wartex 2k23",
     "outcome": ["Rework Render - 1st Prize"],
-    "id": 6
+    "id": 13
+  },
+  {
+    "school": "SRDAV School",
+    "event": "Wartex 2k23",
+    "outcome": ["Typestry - 2nd Prize"],
+    "id": 14
   }
 ]
