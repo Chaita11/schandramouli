@@ -13,7 +13,7 @@ const WorksBox = () => {
           using requried VFX and SFX.
         </p>
         <div className="btnLink">
-          <Link href="/" target="_blank">
+          <Link href="https://youtu.be/nywipTtmBVs" target="_blank">
             Click here!
           </Link>
         </div>
